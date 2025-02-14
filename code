@@ -1,4 +1,3 @@
-# using-ai
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,7 +49,7 @@
 <body>
     <div class="container">
         <h1>Weather App</h1>
-        <p>Made with ❤️ by Ishan Bansal</p>
+        <p>Made by Ishan Bansal</p>
         <input type="text" id="city" placeholder="Enter city">
         <button onclick="getWeather()">Get Weather</button>
         <p class="result" id="result"></p>
